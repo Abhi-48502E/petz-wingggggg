@@ -1,0 +1,99 @@
+.sidebar {
+    width: 250px;
+    height: fit-content;
+    overflow-y: scroll;
+    position: sticky;
+    cursor: pointer;
+    top: -50px;
+    overflow-y: scroll;
+}
+
+.sidebarListItem:hover {
+    background-color: rgba(0, 0, 0, 0.2);
+    color: #547731;
+
+
+}
+
+.parahh {
+    margin-left: 10px;
+    font-size: 14px;
+}
+
+.side-imagee {
+    height: 190px;
+    margin-left: 1000px;
+    margin-top: -140px;
+}
+
+
+
+
+::-webkit-scrollbar {
+    width: 5px;
+}
+
+::-webkit-scrollbar-track {
+    background-color: #f1f1f1;
+}
+
+::-webkit-scrollbar-thumb {
+    background-color: rgb(202, 194, 194);
+}
+
+.sideWrapper {
+    padding-left: -70px;
+
+}
+
+.sidebarList {
+    padding: 0;
+    margin: 0;
+    list-style: none;
+    cursor: pointer;
+
+}
+
+.sidebarListItem {
+    display: flex;
+    align-items: center;
+    height: 40px;
+}
+
+.sideBarListItemText {
+    margin-left: 15px;
+}
+
+.sideBarButton {
+    background-color: #357960;
+    color: white;
+    width: 150px;
+    border: none;
+    padding: 10px;
+    border-radius: 5px;
+    font-weight: 500;
+    cursor: pointer;
+}
+
+.sidebarHr {
+    margin: 20px 0;
+}
+
+.sidebarFriendList {
+    padding: 0;
+    margin: 0;
+    list-style: none;
+}
+
+.sidebarFriend {
+    display: flex;
+    align-items: center;
+    margin-bottom: 15px;
+}
+
+.sidebarFriendImg {
+    width: 32px;
+    height: 32px;
+    border-radius: 50%;
+    object-fit: cover;
+}

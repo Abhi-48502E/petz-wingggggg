@@ -1,0 +1,63 @@
+@import url('https://fonts.googleapis.com/css2?family=Arimo:ital@1&family=Poppins:wght@600&family=Roboto:ital,wght@0,400;0,500;0,700;1,300;1,400;1,500&family=Rubik:ital,wght@1,500&family=Teko:wght@700&display=swap');
+
+.App-name {
+
+    font-family: 'Teko', sans-serif;
+    font-size: 14px;
+    font-weight: 700;
+    margin-top: 10px;
+    margin-left: 10px;
+
+}
+
+.App-name:hover {
+    color: #4CAF50;
+}
+
+.banner-one {
+    height: 260px;
+}
+
+#banner-img {
+    height: 440px;
+    margin-left: 120px;
+
+}
+
+#banner-img2 {
+    height: 440px;
+    margin-left: 120px;
+}
+
+.p-carousel {
+    margin-top: 20px;
+}
+
+#banner-img3 {
+    height: 440px;
+    margin-left: 120px;
+}
+
+.banner-img4 {
+    height: 300px;
+}
+
+.banner-img5 {
+    height: 300px;
+    margin-left: 160px;
+}
+
+.banner-img6 {
+    height: 300px;
+    margin-left: 160px;
+}
+
+
+
+.main-carousel {
+    width: 1300px;
+    height: 0px;
+    margin-top: 50px;
+    padding-left: 300px;
+    background-color: red;
+}
